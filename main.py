@@ -2,6 +2,6 @@
 .
 test
 meow
-mid integer
+mid integer.
 .
 .
