@@ -1,7 +1,7 @@
 
 .
 test
-meow
+.
 mid integer.
 ..
 ..
