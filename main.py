@@ -1,8 +1,8 @@
 
-.
-test
-.
+
+
 mid integer.
 ...
 
 m
+ptint(integer)
