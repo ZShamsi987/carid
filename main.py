@@ -3,6 +3,6 @@
 test
 .
 mid integer.
-..
+...
 
 m
