@@ -5,4 +5,4 @@ test
 mid integer.
 ..
 
-mnop
+m
