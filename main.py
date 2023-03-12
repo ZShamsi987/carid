@@ -1,8 +1,4 @@
 
 
 
-mid integer.
-...
-
-m
-ptint(integer)
+mid integer
